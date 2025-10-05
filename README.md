@@ -1,2 +1,2 @@
-# demo-web-project
+# Web Assignments
 Learning Git & GitHub 
